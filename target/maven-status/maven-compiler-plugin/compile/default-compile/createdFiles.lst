@@ -1,0 +1,12 @@
+tm\qa\pages\HomePage.class
+tm\qa\pages\MyQuotePage.class
+tm\qa\util\WebEventListener.class
+tm\qa\pages\MyPolicyPage.class
+tm\qa\pages\UserProfilePage.class
+tm\qa\base\TestBase.class
+tm\qa\pages\SignUpPage.class
+tm\qa\pages\CommissionPage.class
+tm\qa\util\TestUtil.class
+tm\qa\pages\SignInPage.class
+tm\qa\ExtentReportListener\ExtentReporterNG.class
+tm\qa\pages\GenerateQuotePage.class

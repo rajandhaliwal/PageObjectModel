@@ -1,0 +1,8 @@
+tm\qa\testcases\SignUpPageTest.class
+tm\qa\testcases\HomePageTest.class
+tm\qa\testcases\CommissionPageTest.class
+tm\qa\testcases\GenerateQuotePageTest.class
+tm\qa\testcases\SignInPageTest.class
+tm\qa\testcases\MyQuotePageTest.class
+tm\qa\testcases\UserProfilePageTest.class
+tm\qa\testcases\MyPolicyPageTest.class
