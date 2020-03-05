@@ -2,60 +2,60 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-02-29T13:18:26 EST" name="Default suite" finished-at="2020-02-29T13:18:46 EST" duration-ms="20412">
+  <suite started-at="2020-03-04T13:34:13 EST" name="TravelMedicare Application Test Automation Test Suite" finished-at="2020-03-04T13:34:34 EST" duration-ms="21812">
     <groups>
     </groups>
-    <test started-at="2020-02-29T13:18:26 EST" name="Default test" finished-at="2020-02-29T13:18:46 EST" duration-ms="20412">
+    <test started-at="2020-03-04T13:34:13 EST" name="TravelMedicare App Test Cases" finished-at="2020-03-04T13:34:34 EST" duration-ms="21812">
       <class name="tm.qa.testcases.HomePageTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:tm.qa.testcases.HomePageTest@769e7ee8]" started-at="2020-02-29T13:18:26 EST" name="setUp" finished-at="2020-02-29T13:18:33 EST" duration-ms="7151" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tm.qa.testcases.HomePageTest@71b1176b]" started-at="2020-03-04T13:34:13 EST" name="setUp" finished-at="2020-03-04T13:34:18 EST" duration-ms="5367" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="clickOnTmLogoTest()[pri:1, instance:tm.qa.testcases.HomePageTest@769e7ee8]" started-at="2020-02-29T13:18:33 EST" name="clickOnTmLogoTest" finished-at="2020-02-29T13:18:33 EST" duration-ms="308" status="PASS">
+        <test-method signature="clickOnTmLogoTest()[pri:1, instance:tm.qa.testcases.HomePageTest@71b1176b]" started-at="2020-03-04T13:34:18 EST" name="clickOnTmLogoTest" finished-at="2020-03-04T13:34:18 EST" duration-ms="497" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clickOnTmLogoTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:tm.qa.testcases.HomePageTest@769e7ee8]" started-at="2020-02-29T13:18:33 EST" name="tearDown" finished-at="2020-02-29T13:18:33 EST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tm.qa.testcases.HomePageTest@71b1176b]" started-at="2020-03-04T13:34:18 EST" name="tearDown" finished-at="2020-03-04T13:34:18 EST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:tm.qa.testcases.HomePageTest@769e7ee8]" started-at="2020-02-29T13:18:33 EST" name="setUp" finished-at="2020-02-29T13:18:37 EST" duration-ms="4035" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tm.qa.testcases.HomePageTest@71b1176b]" started-at="2020-03-04T13:34:18 EST" name="setUp" finished-at="2020-03-04T13:34:23 EST" duration-ms="4611" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="clickOnHomeLinkTest()[pri:2, instance:tm.qa.testcases.HomePageTest@769e7ee8]" started-at="2020-02-29T13:18:37 EST" name="clickOnHomeLinkTest" finished-at="2020-02-29T13:18:37 EST" duration-ms="192" status="PASS">
+        <test-method signature="clickOnHomeLinkTest()[pri:2, instance:tm.qa.testcases.HomePageTest@71b1176b]" started-at="2020-03-04T13:34:23 EST" name="clickOnHomeLinkTest" finished-at="2020-03-04T13:34:24 EST" duration-ms="571" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clickOnHomeLinkTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:tm.qa.testcases.HomePageTest@769e7ee8]" started-at="2020-02-29T13:18:37 EST" name="tearDown" finished-at="2020-02-29T13:18:37 EST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tm.qa.testcases.HomePageTest@71b1176b]" started-at="2020-03-04T13:34:24 EST" name="tearDown" finished-at="2020-03-04T13:34:24 EST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:tm.qa.testcases.HomePageTest@769e7ee8]" started-at="2020-02-29T13:18:37 EST" name="setUp" finished-at="2020-02-29T13:18:41 EST" duration-ms="3979" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tm.qa.testcases.HomePageTest@71b1176b]" started-at="2020-03-04T13:34:24 EST" name="setUp" finished-at="2020-03-04T13:34:28 EST" duration-ms="4575" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="clickOnMyTMlinkTest()[pri:3, instance:tm.qa.testcases.HomePageTest@769e7ee8]" started-at="2020-02-29T13:18:41 EST" name="clickOnMyTMlinkTest" finished-at="2020-02-29T13:18:42 EST" duration-ms="395" status="PASS">
+        <test-method signature="clickOnMyTMlinkTest()[pri:3, instance:tm.qa.testcases.HomePageTest@71b1176b]" started-at="2020-03-04T13:34:28 EST" name="clickOnMyTMlinkTest" finished-at="2020-03-04T13:34:29 EST" duration-ms="703" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clickOnMyTMlinkTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:tm.qa.testcases.HomePageTest@769e7ee8]" started-at="2020-02-29T13:18:42 EST" name="tearDown" finished-at="2020-02-29T13:18:42 EST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tm.qa.testcases.HomePageTest@71b1176b]" started-at="2020-03-04T13:34:29 EST" name="tearDown" finished-at="2020-03-04T13:34:29 EST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:tm.qa.testcases.HomePageTest@769e7ee8]" started-at="2020-02-29T13:18:42 EST" name="setUp" finished-at="2020-02-29T13:18:46 EST" duration-ms="3882" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tm.qa.testcases.HomePageTest@71b1176b]" started-at="2020-03-04T13:34:29 EST" name="setUp" finished-at="2020-03-04T13:34:34 EST" duration-ms="4631" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="clickOnBecomeAnAgentLinkTest()[pri:4, instance:tm.qa.testcases.HomePageTest@769e7ee8]" started-at="2020-02-29T13:18:46 EST" name="clickOnBecomeAnAgentLinkTest" finished-at="2020-02-29T13:18:46 EST" duration-ms="400" status="PASS">
+        <test-method signature="clickOnBecomeAnAgentLinkTest()[pri:4, instance:tm.qa.testcases.HomePageTest@71b1176b]" started-at="2020-03-04T13:34:34 EST" name="clickOnBecomeAnAgentLinkTest" finished-at="2020-03-04T13:34:34 EST" duration-ms="785" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clickOnBecomeAnAgentLinkTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:tm.qa.testcases.HomePageTest@769e7ee8]" started-at="2020-02-29T13:18:46 EST" name="tearDown" finished-at="2020-02-29T13:18:46 EST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tm.qa.testcases.HomePageTest@71b1176b]" started-at="2020-03-04T13:34:34 EST" name="tearDown" finished-at="2020-03-04T13:34:34 EST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- tm.qa.testcases.HomePageTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- TravelMedicare App Test Cases -->
+  </suite> <!-- TravelMedicare Application Test Automation Test Suite -->
 </testng-results>
